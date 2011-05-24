@@ -1,0 +1,482 @@
+TPlusBible0.1
+v7
+r0
+t327907057.088826
+cCheck dependencies
+cProcessInfoPlistFile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/Info.plist Info.plist
+cCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/MainWindow.xib
+cCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/RootViewController.xib
+cCopyPlistFile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/Data.plist Classes/Data.plist
+cCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/DetailView.xib
+cCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/ImageView.xib
+cCpResource build/Debug-iphonesimulator/PlusBible0.1.app/Image.jpg Image.jpg
+cCpResource build/Debug-iphonesimulator/PlusBible0.1.app/korvb.sqlite3 korvb.sqlite3
+cCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/WebView.xib
+cProcessPCH /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch.gch PlusBible0.1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/main.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/DrillDownAppAppDelegate.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/RootViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/DetailViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/ImageViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/WebViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.1 normal i386
+cGenerateDSYMFile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app.dSYM /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.1
+cTouch /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sqlite3.h
+c000000004D54CB5C0000000000045296
+t1297402716
+s283286
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libsqlite3.0.dylib
+c000000004D54CB720000000000099500
+t1297402738
+s627968
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/Data.plist
+c000000004DD513250000000000024FBD
+t1305809701
+s151485
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.h
+c000000004DD514D70000000000000135
+t1305810135
+s309
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.m
+c000000004DD518F40000000000000319
+t1305811188
+s793
+i"DetailViewController.h"
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.h
+c0000000049B48ADD0000000000000226
+t1236568797
+s550
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.m
+c0000000049B48AE100000000000003DF
+t1236568801
+s991
+i"DrillDownAppAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.h
+c0000000049CFB8E00000000000000158
+t1238350048
+s344
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.m
+c0000000049CFBD36000000000000039A
+t1238351158
+s922
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.h
+c0000000049CFA1EA000000000000020D
+t1238344170
+s525
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.m
+c000000004DDA4B20000000000000135F
+t1306151712
+s4959
+i"RootViewController.h"
+i"DrillDownAppAppDelegate.h"
+i"DetailViewController.h"
+i"WebViewController.h"
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.h
+c000000004DDA44410000000000000211
+t1306149953
+s529
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m
+c000000004DDA4AB60000000000000930
+t1306151606
+s2352
+i"WebViewController.h"
+i<sqlite3.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/DetailView.xib
+c0000000049B419D700000000000016FC
+t1236539863
+s5884
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Image.jpg
+c0000000049CFBB2E0000000000000E82
+t1238350638
+s3714
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/ImageView.xib
+c0000000049CFBC770000000000001CDE
+t1238350967
+s7390
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/MainWindow.xib
+c0000000049B408860000000000002A2C
+t1236535430
+s10796
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/PlusBible0.1_Prefix.pch
+c0000000049B4088600000000000000C1
+t1236535430
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/RootViewController.xib
+c0000000049CFA22400000000000041A9
+t1238344228
+s16809
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/WebView.xib
+c000000004DDA390B00000000000044F6
+t1306147083
+s17654
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app
+t1306214257
+s442
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app.dSYM
+t1306214257
+s102
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/Data.plist
+t1306214254
+s21426
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/DetailView.nib
+t1306214254
+s1231
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/Image.jpg
+t1306214254
+s3714
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/ImageView.nib
+t1306214254
+s1629
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/Info.plist
+t1306214254
+s611
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/MainWindow.nib
+t1306214254
+s2430
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PkgInfo
+t1306214254
+s8
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.1
+t1306214257
+s32908
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/RootViewController.nib
+t1306214254
+s4251
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/WebView.nib
+t1306214255
+s1671
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/korvb.sqlite3
+t1306214255
+s13137920
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/DetailViewController.o
+t1306214256
+s40284
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/DrillDownAppAppDelegate.o
+t1306214256
+s53732
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/ImageViewController.o
+t1306214256
+s41220
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/PlusBible0.1.LinkFileList
+c000000004DDB3F6E000000000000036B
+t1306214254
+s875
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/RootViewController.o
+t1306214256
+s59356
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/WebViewController.o
+t1306214256
+s47712
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/main.o
+t1306214256
+s6316
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/korvb.sqlite3
+c000000004DD664500000000000C87800
+t1305896016
+s13137920
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/main.m
+c0000000049B48AED0000000000000168
+t1236568813
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch.gch
+t1306214256
+s15814064
+
+NInfo.plist
+c0000000049B408860000000000000386
+t1236535430
+s902
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327907054#327907054#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/DetailViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327907056.618544
+e327907056.783544
+r1
+xCompileC
+xbuild/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/DetailViewController.o
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.m327907056#327907056#0(0"0(0#0#70"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.m8602254432#2069"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-generated-files.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-own-target-headers.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-project-headers.hmap -F/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch -c /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.m -o /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/DrillDownAppAppDelegate.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327907056.617132
+e327907056.790156
+r1
+xCompileC
+xbuild/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/DrillDownAppAppDelegate.o
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.m327907056#327907056#0(0"0(0#0#73"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.m8602368544#2075"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-generated-files.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-own-target-headers.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-project-headers.hmap -F/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch -c /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.m -o /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/DrillDownAppAppDelegate.o0#
+
+CCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/ImageViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327907056.619417
+e327907056.783324
+r1
+xCompileC
+xbuild/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/ImageViewController.o
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.m327907056#327907056#0(0"0(0#0#69"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.m8607731872#2067"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-generated-files.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-own-target-headers.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-project-headers.hmap -F/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch -c /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.m -o /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/ImageViewController.o0#
+
+CCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/RootViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327907056.617789
+e327907056.798221
+r1
+xCompileC
+xbuild/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/RootViewController.o
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.m327907056#327907056#0(0"0(0#0#68"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.m8604357536#2065"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-generated-files.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-own-target-headers.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-project-headers.hmap -F/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch -c /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.m -o /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/WebViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327907056.620318
+e327907056.789766
+r1
+xCompileC
+xbuild/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/WebViewController.o
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m: In function '-[WebViewController initWithFrame:]':
+o/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m:21: warning: 'UIViewController' may not respond to '-initWithFrame:'
+o/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m:21: warning: (Messages without a matching method signature
+o/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m:21: warning: will be assumed to return 'id' and accept
+o/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m:21: warning: '...' as arguments.)
+o/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m: In function '-[WebViewController viewDidLoad]':
+o/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m:84: warning: passing argument 1 of 'sqlite3_errmsg' from incompatible pointer type
+lSLF07#2@75"Compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m327907056#327907056#0(877"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m: In function '-[WebViewController initWithFrame:]':/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m:21: warning: 'UIViewController' may not respond to '-initWithFrame:'/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m:21: warning: (Messages without a matching method signature/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m:21: warning: will be assumed to return 'id' and accept/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m:21: warning: '...' as arguments.)/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m: In function '-[WebViewController viewDidLoad]':/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m:84: warning: passing argument 1 of 'sqlite3_errmsg' from incompatible pointer type3(22@55"'UIViewController' may not respond to '-initWithFrame:'327907056#120#137#0(6@67"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m327844406#21#0#21#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)327907056#257#127#0(6@67"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m327844406#21#0#21#0#0"0(22@69"Passing argument 1 of 'sqlite3_errmsg' from incompatible pointer type327907056#726#151#0(6@67"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m327844406#84#0#84#0#56"passing argument * of '*' from incompatible pointer type0(0#0#67"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m8607540832#2063"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-generated-files.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-own-target-headers.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-project-headers.hmap -F/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch -c /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m -o /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/WebViewController.o0#
+
+CCompileC build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/main.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327907056.616357
+e327907056.770945
+r1
+xCompileC
+xbuild/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/main.o
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/main.m327907056#327907056#0(0"0(0#0#46"/Users/Nicejinux/Desktop/PlusBibie_V0.1/main.m8601409632#2029"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-generated-files.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-own-target-headers.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-project-headers.hmap -F/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch -c /Users/Nicejinux/Desktop/PlusBibie_V0.1/main.m -o /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/DetailView.xib
+s327907054.072132
+e327907054.659895
+r1
+xCompileXIB
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib327907054#327907054#0(0"0(0#0#54"/Users/Nicejinux/Desktop/PlusBibie_V0.1/DetailView.xib8601690208#582"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/DetailView.nib /Users/Nicejinux/Desktop/PlusBibie_V0.1/DetailView.xib --sdk /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/ImageView.xib
+s327907054.072628
+e327907054.660289
+r1
+xCompileXIB
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/ImageView.xib
+lSLF07#2@24"CompileXIB ImageView.xib327907054#327907054#0(0"0(0#0#53"/Users/Nicejinux/Desktop/PlusBibie_V0.1/ImageView.xib8598233024#580"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/ImageView.nib /Users/Nicejinux/Desktop/PlusBibie_V0.1/ImageView.xib --sdk /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/MainWindow.xib
+s327907054.068575
+e327907054.660094
+r1
+xCompileXIB
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327907054#327907054#0(0"0(0#0#54"/Users/Nicejinux/Desktop/PlusBibie_V0.1/MainWindow.xib8604051584#582"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/MainWindow.nib /Users/Nicejinux/Desktop/PlusBibie_V0.1/MainWindow.xib --sdk /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/RootViewController.xib
+s327907054.071159
+e327907054.660200
+r1
+xCompileXIB
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/RootViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@33"CompileXIB RootViewController.xib327907054#327907054#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#62"/Users/Nicejinux/Desktop/PlusBibie_V0.1/RootViewController.xib8599551040#598"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/RootViewController.nib /Users/Nicejinux/Desktop/PlusBibie_V0.1/RootViewController.xib --sdk /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/WebView.xib
+s327907054.074293
+e327907055.488755
+r1
+xCompileXIB
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/WebView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@22"CompileXIB WebView.xib327907054#327907055#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#51"/Users/Nicejinux/Desktop/PlusBibie_V0.1/WebView.xib8603680768#576"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/WebView.nib /Users/Nicejinux/Desktop/PlusBibie_V0.1/WebView.xib --sdk /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCopyPlistFile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/Data.plist Classes/Data.plist
+s327907054.071667
+e327907054.843464
+r1
+xCopyPlistFile
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/Data.plist
+xClasses/Data.plist
+lSLF07#2@23"Copy Classes/Data.plist327907054#327907054#0(0"0(0#0#58"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/Data.plist8602506112#403"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Classes/Data.plist --outdir /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app0#
+
+CCpResource build/Debug-iphonesimulator/PlusBible0.1.app/Image.jpg Image.jpg
+s327907054.073142
+e327907054.181462
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PlusBible0.1.app/Image.jpg
+xImage.jpg
+lSLF07#2@14"Copy Image.jpg327907054#327907054#0(0"0(0#0#49"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Image.jpg8604550528#478"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Nicejinux/Desktop/PlusBibie_V0.1/Image.jpg /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app0#
+
+CCpResource build/Debug-iphonesimulator/PlusBible0.1.app/korvb.sqlite3 korvb.sqlite3
+s327907054.073678
+e327907055.710347
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PlusBible0.1.app/korvb.sqlite3
+xkorvb.sqlite3
+lSLF07#2@18"Copy korvb.sqlite3327907054#327907055#0(0"0(0#0#53"/Users/Nicejinux/Desktop/PlusBibie_V0.1/korvb.sqlite38604092160#482"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Nicejinux/Desktop/PlusBibie_V0.1/korvb.sqlite3 /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app0#
+
+CGenerateDSYMFile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app.dSYM /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.1
+s327907057.032982
+e327907057.086709
+r1
+xGenerateDSYMFile
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app.dSYM
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.1
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/PlusBible0.1.app.dSYM build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.1327907057#327907057#0(0"0(0#0#97"/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.18607466560#404"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/usr/bin/dsymutil /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.1 -o /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app.dSYM0#
+
+CLd /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.1 normal i386
+s327907056.798287
+e327907057.032899
+r1
+xLd
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.1
+xnormal
+xi386
+lSLF07#2@102"Link /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.1327907056#327907057#0(0"0(0#0#0"32651513917341812#946"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator -F/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator -filelist /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/Objects-normal/i386/PlusBible0.1.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PlusBible0.10#
+
+CProcessInfoPlistFile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/Info.plist Info.plist
+s327907054.027423
+e327907054.068491
+r1
+xProcessInfoPlistFile
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist327907054#327907054#0(0"0(0#0#50"/Users/Nicejinux/Desktop/PlusBibie_V0.1/Info.plist30399800003068008#486"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app/Info.plist0#
+
+CProcessPCH /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch.gch PlusBible0.1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327907055.710547
+e327907056.616270
+r1
+xProcessPCH
+x/var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch.gch
+xPlusBible0.1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile PlusBible0.1_Prefix.pch327907055#327907056#0(0"0(0#0#63"/Users/Nicejinux/Desktop/PlusBibie_V0.1/PlusBible0.1_Prefix.pch8604313728#1915"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-generated-files.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-own-target-headers.hmap -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/PlusBible0.1-project-headers.hmap -F/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/PlusBible0.1.build/Debug-iphonesimulator/PlusBible0.1.build/DerivedSources -c /Users/Nicejinux/Desktop/PlusBibie_V0.1/PlusBible0.1_Prefix.pch -o /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PlusBible0.1_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/PlusBible0.1_Prefix.pch.gch0#
+
+CTouch /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app
+s327907057.086781
+e327907057.088797
+r1
+xTouch
+x/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app
+lSLF07#2@90"Touch /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app327907057#327907057#0(0"0(0#0#0"8607277408#287"    cd /Users/Nicejinux/Desktop/PlusBibie_V0.1    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/PlusBible0.1.app0#
+

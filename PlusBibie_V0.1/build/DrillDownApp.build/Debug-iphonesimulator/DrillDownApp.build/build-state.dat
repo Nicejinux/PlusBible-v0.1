@@ -1,0 +1,1328 @@
+TDrillDownApp
+v7
+r0
+t327844557.645835
+cCheck dependencies
+cProcessInfoPlistFile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Info.plist Info.plist
+cCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/MainWindow.xib
+cCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/RootViewController.xib
+cCopyPlistFile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Data.plist Classes/Data.plist
+cCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/DetailView.xib
+cCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/ImageView.xib
+cCpResource build/Debug-iphonesimulator/DrillDownApp.app/Image.jpg Image.jpg
+cCpResource build/Debug-iphonesimulator/DrillDownApp.app/korvb.sqlite3 korvb.sqlite3
+cCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/WebView.xib
+cProcessPCH /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch.gch DrillDownApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DrillDownAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/ImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/WebViewController.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp normal i386
+cGenerateDSYMFile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+cTouch /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sqlite3.h
+c000000004D54CB5C0000000000045296
+t1297402716
+s283286
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libsqlite3.0.dylib
+c000000004D54CB720000000000099500
+t1297402738
+s627968
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/Data.plist
+c000000004DD513250000000000024FBD
+t1305809701
+s151485
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DetailViewController.h
+c000000004DD514D70000000000000135
+t1305810135
+s309
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DetailViewController.m
+c000000004DD518F40000000000000319
+t1305811188
+s793
+i"DetailViewController.h"
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DrillDownAppAppDelegate.h
+c0000000049B48ADD0000000000000226
+t1236568797
+s550
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DrillDownAppAppDelegate.m
+c0000000049B48AE100000000000003DF
+t1236568801
+s991
+i"DrillDownAppAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/ImageViewController.h
+c0000000049CFB8E00000000000000158
+t1238350048
+s344
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/ImageViewController.m
+c0000000049CFBD36000000000000039A
+t1238351158
+s922
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/RootViewController.h
+c0000000049CFA1EA000000000000020D
+t1238344170
+s525
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/RootViewController.m
+c000000004DDA4B20000000000000135F
+t1306151712
+s4959
+i"RootViewController.h"
+i"DrillDownAppAppDelegate.h"
+i"DetailViewController.h"
+i"WebViewController.h"
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.h
+c000000004DDA44410000000000000211
+t1306149953
+s529
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m
+c000000004DDA4AB60000000000000930
+t1306151606
+s2352
+i"WebViewController.h"
+i<sqlite3.h>
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/DetailView.xib
+c0000000049B419D700000000000016FC
+t1236539863
+s5884
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/DrillDownApp_Prefix.pch
+c0000000049B4088600000000000000C1
+t1236535430
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Image.jpg
+c0000000049CFBB2E0000000000000E82
+t1238350638
+s3714
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/ImageView.xib
+c0000000049CFBC770000000000001CDE
+t1238350967
+s7390
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/MainWindow.xib
+c0000000049B408860000000000002A2C
+t1236535430
+s10796
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/RootViewController.xib
+c0000000049CFA22400000000000041A9
+t1238344228
+s16809
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/WebView.xib
+c000000004DDA390B00000000000044F6
+t1306147083
+s17654
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/WebViewController.xib
+c000000004DDA1C2E0000000000001643
+t1306139694
+s5699
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app
+t1306151713
+s442
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM
+t1306151713
+s102
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Data.plist
+t1305809730
+s21426
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DetailView.nib
+t1236539866
+s1063
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+t1306151713
+s33052
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Image.jpg
+t1238350658
+s3714
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/ImageView.nib
+t1238350980
+s1342
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Info.plist
+t1236537735
+s950
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/MainWindow.nib
+t1236537735
+s2002
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/PkgInfo
+t1236537735
+s8
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/RootViewController.nib
+t1238345202
+s4207
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/WebView.nib
+t1306147110
+s1671
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/WebViewController.nib
+t2
+s0
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/korvb.sqlite3
+t1306144386
+s13137920
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o
+t1306144387
+s40308
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownApp.LinkFileList
+c000000004DDA2E8100000000000003B3
+t1306144385
+s947
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o
+t1306144387
+s53756
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o
+t1306144387
+s41244
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o
+t1306151713
+s59380
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/WebViewController.o
+t1306151606
+s47736
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o
+t1306144387
+s6340
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/korvb.sqlite3
+c000000004DD664500000000000C87800
+t1305896016
+s13137920
+
+N/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/main.m
+c0000000049B48AED0000000000000168
+t1236568813
+s360
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/Data.plist
+c000000004DD513250000000000024FBD
+t1305809701
+s151485
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.h
+c000000004DD514D70000000000000135
+t1305810135
+s309
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.m
+c000000004DD518F40000000000000319
+t1305811188
+s793
+i"DetailViewController.h"
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.h
+c0000000049B48ADD0000000000000226
+t1236568797
+s550
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.m
+c0000000049B48AE100000000000003DF
+t1236568801
+s991
+i"DrillDownAppAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.h
+c0000000049CFB8E00000000000000158
+t1238350048
+s344
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.m
+c0000000049CFBD36000000000000039A
+t1238351158
+s922
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.h
+c0000000049CFA1EA000000000000020D
+t1238344170
+s525
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.m
+c000000004DDA4B20000000000000135F
+t1306151712
+s4959
+i"RootViewController.h"
+i"DrillDownAppAppDelegate.h"
+i"DetailViewController.h"
+i"WebViewController.h"
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.h
+c000000004DDA44410000000000000211
+t1306149953
+s529
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m
+c000000004DDA4AB60000000000000930
+t1306151606
+s2352
+i"WebViewController.h"
+i<sqlite3.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/DetailView.xib
+c0000000049B419D700000000000016FC
+t1236539863
+s5884
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/DrillDownApp_Prefix.pch
+c0000000049B4088600000000000000C1
+t1236535430
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/Image.jpg
+c0000000049CFBB2E0000000000000E82
+t1238350638
+s3714
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/ImageView.xib
+c0000000049CFBC770000000000001CDE
+t1238350967
+s7390
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/MainWindow.xib
+c0000000049B408860000000000002A2C
+t1236535430
+s10796
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/RootViewController.xib
+c0000000049CFA22400000000000041A9
+t1238344228
+s16809
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/WebView.xib
+c000000004DDA390B00000000000044F6
+t1306147083
+s17654
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app
+t1306151713
+s442
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app.dSYM
+t1306151713
+s102
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/Data.plist
+t1305809730
+s21426
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/DetailView.nib
+t1236539866
+s1063
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+t1306151713
+s33052
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/Image.jpg
+t1238350658
+s3714
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/ImageView.nib
+t1238350980
+s1342
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/Info.plist
+t1236537735
+s950
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/MainWindow.nib
+t1236537735
+s2002
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/PkgInfo
+t1236537735
+s8
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/RootViewController.nib
+t1238345202
+s4207
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/WebView.nib
+t1306147110
+s1671
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/korvb.sqlite3
+t1306144386
+s13137920
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o
+t1306144387
+s40308
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownApp.LinkFileList
+c000000004DDA2E8100000000000003B3
+t1306144385
+s947
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o
+t1306144387
+s53756
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o
+t1306144387
+s41244
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o
+t1306151713
+s59380
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/WebViewController.o
+t1306151606
+s47736
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o
+t1306144387
+s6340
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/korvb.sqlite3
+c000000004DD664500000000000C87800
+t1305896016
+s13137920
+
+N/Users/Nicejinux/Desktop/PlusBibie_V0.1/main.m
+c0000000049B48AED0000000000000168
+t1236568813
+s360
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/Data.plist
+c0000000049CFAE33000000000000080C
+t1238347315
+s2060
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DetailViewController.h
+c0000000049B48AE400000000000000EB
+t1236568804
+s235
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DetailViewController.m
+c0000000049B48B18000000000000028C
+t1236568856
+s652
+i"DetailViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DrillDownAppAppDelegate.h
+c0000000049B48ADD0000000000000226
+t1236568797
+s550
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DrillDownAppAppDelegate.m
+c0000000049B48AE100000000000003DF
+t1236568801
+s991
+i"DrillDownAppAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/ImageViewController.h
+c0000000049CFB8E00000000000000158
+t1238350048
+s344
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/ImageViewController.m
+c0000000049CFBD36000000000000039A
+t1238351158
+s922
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.h
+c0000000049CFA1EA000000000000020D
+t1238344170
+s525
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m
+c0000000049CFBB42000000000000108B
+t1238350658
+s4235
+i"RootViewController.h"
+i"DrillDownAppAppDelegate.h"
+i"DetailViewController.h"
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/DetailView.xib
+c0000000049B419D700000000000016FC
+t1236539863
+s5884
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/DrillDownApp_Prefix.pch
+c0000000049B4088600000000000000C1
+t1236535430
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Image.jpg
+c0000000049CFBB2E0000000000000E82
+t1238350638
+s3714
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/ImageView.xib
+c0000000049CFBC770000000000001CDE
+t1238350967
+s7390
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/MainWindow.xib
+c0000000049B408860000000000002A2C
+t1236535430
+s10796
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/RootViewController.xib
+c0000000049CFA22400000000000041A9
+t1238344228
+s16809
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app
+t1305805125
+s374
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM
+t1305805125
+s102
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Data.plist
+t1238348014
+s2060
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DetailView.nib
+t1236539866
+s1063
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+t1305805125
+s25856
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Image.jpg
+t1238350658
+s3714
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/ImageView.nib
+t1238350980
+s1342
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Info.plist
+t1236537735
+s950
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/MainWindow.nib
+t1236537735
+s2002
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/PkgInfo
+t1236537735
+s8
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/RootViewController.nib
+t1238345202
+s4207
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o
+t1305805125
+s38484
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownApp.LinkFileList
+c000000004DD5014400000000000002FC
+t1305805124
+s764
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o
+t1305805125
+s53736
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o
+t1305805125
+s41228
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o
+t1305805125
+s60104
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o
+t1305805125
+s6328
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/main.m
+c0000000049B48AED0000000000000168
+t1236568813
+s360
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/Data.plist
+c000000004DD513250000000000024FBD
+t1305809701
+s151485
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DetailViewController.h
+c000000004DD514D70000000000000135
+t1305810135
+s309
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DetailViewController.m
+c000000004DD518F40000000000000319
+t1305811188
+s793
+i"DetailViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DrillDownAppAppDelegate.h
+c0000000049B48ADD0000000000000226
+t1236568797
+s550
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DrillDownAppAppDelegate.m
+c0000000049B48AE100000000000003DF
+t1236568801
+s991
+i"DrillDownAppAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/ImageViewController.h
+c0000000049CFB8E00000000000000158
+t1238350048
+s344
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/ImageViewController.m
+c0000000049CFBD36000000000000039A
+t1238351158
+s922
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/RootViewController.h
+c0000000049CFA1EA000000000000020D
+t1238344170
+s525
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/RootViewController.m
+c000000004DD51E82000000000000115B
+t1305812610
+s4443
+i"RootViewController.h"
+i"DrillDownAppAppDelegate.h"
+i"DetailViewController.h"
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/DetailView.xib
+c0000000049B419D700000000000016FC
+t1236539863
+s5884
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/DrillDownApp_Prefix.pch
+c0000000049B4088600000000000000C1
+t1236535430
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Image.jpg
+c0000000049CFBB2E0000000000000E82
+t1238350638
+s3714
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/ImageView.xib
+c0000000049CFBC770000000000001CDE
+t1238350967
+s7390
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/MainWindow.xib
+c0000000049B408860000000000002A2C
+t1236535430
+s10796
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/RootViewController.xib
+c0000000049CFA22400000000000041A9
+t1238344228
+s16809
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app
+t1305812577
+s374
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM
+t1305812577
+s102
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Data.plist
+t1305809730
+s21426
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DetailView.nib
+t1236539866
+s1063
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+t1305812577
+s26296
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Image.jpg
+t1238350658
+s3714
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/ImageView.nib
+t1238350980
+s1342
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Info.plist
+t1236537735
+s950
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/MainWindow.nib
+t1236537735
+s2002
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/PkgInfo
+t1236537735
+s8
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/RootViewController.nib
+t1238345202
+s4207
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o
+t1305811216
+s40292
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownApp.LinkFileList
+c000000004DD512DB00000000000002FC
+t1305809627
+s764
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o
+t1305809628
+s53736
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o
+t1305809628
+s41228
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o
+t1305812577
+s60832
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o
+t1305809628
+s6328
+
+N/Users/Nicejinux/Desktop/Source 3/DrillDownApp/main.m
+c0000000049B48AED0000000000000168
+t1236568813
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch.gch
+t1306144387
+s15814064
+
+N/var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/DrillDownApp_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cttpkoymeeclxzcqrcgaxpjeaiuq/DrillDownApp_Prefix.pch.gch
+t1305805124
+s15814064
+
+N/var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-gjlpbnlaafcvacgijnsqrlbearsl/DrillDownApp_Prefix.pch.gch
+t1305809628
+s15814064
+
+NInfo.plist
+c0000000049B408860000000000000386
+t1236535430
+s902
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327844557#327844557#0(0"0(0#1#0"8613401920#0"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327497925.116017
+e327497925.177976
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o
+x/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DetailViewController.m327497925#327497925#0(0"0(0#0#77"/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DetailViewController.m8605741376#2164"    cd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -include /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cttpkoymeeclxzcqrcgaxpjeaiuq/DrillDownApp_Prefix.pch -c "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DetailViewController.m" -o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327504016.366692
+e327504016.492216
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o
+x/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DetailViewController.m327504016#327504016#0(0"0(0#0#77"/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DetailViewController.m8616063552#2164"    cd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -include /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-gjlpbnlaafcvacgijnsqrlbearsl/DrillDownApp_Prefix.pch -c "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DetailViewController.m" -o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327837187.671132
+e327837187.716924
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DetailViewController.m327837187#327837187#0(0"0(0#0#82"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DetailViewController.m7593478425007846400#2201"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap -F/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch -c /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DetailViewController.m -o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DetailViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DrillDownAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327497924.919662
+e327497925.115930
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o
+x/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DrillDownAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DrillDownAppAppDelegate.m327497924#327497925#0(0"0(0#0#80"/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DrillDownAppAppDelegate.m8604353344#2170"    cd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -include /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cttpkoymeeclxzcqrcgaxpjeaiuq/DrillDownApp_Prefix.pch -c "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DrillDownAppAppDelegate.m" -o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DrillDownAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327502428.110829
+e327502428.187822
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o
+x/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DrillDownAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DrillDownAppAppDelegate.m327502428#327502428#0(0"0(0#0#80"/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DrillDownAppAppDelegate.m8606088896#2170"    cd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -include /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-gjlpbnlaafcvacgijnsqrlbearsl/DrillDownApp_Prefix.pch -c "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/DrillDownAppAppDelegate.m" -o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DrillDownAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327837187.589577
+e327837187.673468
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DrillDownAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DrillDownAppAppDelegate.m327837187#327837187#0(0"0(0#0#85"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DrillDownAppAppDelegate.m8619055968#2207"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap -F/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch -c /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/DrillDownAppAppDelegate.m -o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownAppAppDelegate.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/DrillDownAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/ImageViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327497925.176895
+e327497925.245566
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o
+x/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/ImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/ImageViewController.m327497925#327497925#0(0"0(0#0#76"/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/ImageViewController.m8604229408#2162"    cd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -include /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cttpkoymeeclxzcqrcgaxpjeaiuq/DrillDownApp_Prefix.pch -c "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/ImageViewController.m" -o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/ImageViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327502428.253745
+e327502428.307891
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o
+x/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/ImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/ImageViewController.m327502428#327502428#0(0"0(0#0#76"/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/ImageViewController.m8606310336#2162"    cd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -include /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-gjlpbnlaafcvacgijnsqrlbearsl/DrillDownApp_Prefix.pch -c "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/ImageViewController.m" -o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/ImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327837187.671864
+e327837187.720572
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/ImageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/ImageViewController.m327837187#327837187#0(0"0(0#0#81"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/ImageViewController.m8619500704#2199"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap -F/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch -c /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/ImageViewController.m -o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/ImageViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/ImageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327497925.093979
+e327497925.176809
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o
+x/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m:68: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)
+lSLF07#2@83"Compile /Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m327497925#327497925#0(431"/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m:68: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)1(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:213)327497925#147#284#0(6@75"/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m260043458#68#0#68#0#33"'*' is deprecated (declared at *)0(0#0#75"/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m8606032000#2160"    cd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -include /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cttpkoymeeclxzcqrcgaxpjeaiuq/DrillDownApp_Prefix.pch -c "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m" -o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327505376.940684
+e327505377.060941
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o
+x/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/RootViewController.m327505376#327505377#0(0"0(0#0#75"/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/RootViewController.m8614218976#2160"    cd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -include /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-gjlpbnlaafcvacgijnsqrlbearsl/DrillDownApp_Prefix.pch -c "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/RootViewController.m" -o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327844513.876273
+e327844513.932793
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/RootViewController.m327844513#327844513#0(0"0(0#0#80"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/RootViewController.m8614025248#2197"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap -F/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch -c /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/RootViewController.m -o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/RootViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/WebViewController.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327844406.076941
+e327844406.130870
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/WebViewController.o
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m: In function '-[WebViewController initWithFrame:]':
+o/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m:21: warning: 'UIViewController' may not respond to '-initWithFrame:'
+o/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m:21: warning: (Messages without a matching method signature
+o/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m:21: warning: will be assumed to return 'id' and accept
+o/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m:21: warning: '...' as arguments.)
+o/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m: In function '-[WebViewController viewDidLoad]':
+o/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m:84: warning: passing argument 1 of 'sqlite3_errmsg' from incompatible pointer type
+lSLF07#2@87"Compile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m327844406#327844406#0(961"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m: In function '-[WebViewController initWithFrame:]':/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m:21: warning: 'UIViewController' may not respond to '-initWithFrame:'/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m:21: warning: (Messages without a matching method signature/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m:21: warning: will be assumed to return 'id' and accept/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m:21: warning: '...' as arguments.)/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m: In function '-[WebViewController viewDidLoad]':/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m:84: warning: passing argument 1 of 'sqlite3_errmsg' from incompatible pointer type3(22@55"'UIViewController' may not respond to '-initWithFrame:'327844406#132#149#0(6@79"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m327844406#21#0#21#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)327844406#281#139#0(6@79"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m327844406#21#0#21#0#0"0(22@69"Passing argument 1 of 'sqlite3_errmsg' from incompatible pointer type327844406#798#163#0(6@79"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m327844406#84#0#84#0#56"passing argument * of '*' from incompatible pointer type0(0#0#79"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m8601688672#2195"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap -F/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch -c /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/Classes/WebViewController.m -o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/WebViewController.o0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/WebViewController.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/Classes/WebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327497924.918431
+e327497925.093894
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o
+x/Users/Nicejinux/Desktop/Source 2/DrillDownApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Nicejinux/Desktop/Source 2/DrillDownApp/main.m327497924#327497925#0(0"0(0#0#53"/Users/Nicejinux/Desktop/Source 2/DrillDownApp/main.m8600525568#2124"    cd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -include /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cttpkoymeeclxzcqrcgaxpjeaiuq/DrillDownApp_Prefix.pch -c "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/main.m" -o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327502428.109693
+e327502428.162041
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o
+x/Users/Nicejinux/Desktop/Source 3/DrillDownApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Nicejinux/Desktop/Source 3/DrillDownApp/main.m327502428#327502428#0(0"0(0#0#53"/Users/Nicejinux/Desktop/Source 3/DrillDownApp/main.m8606528032#2124"    cd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -include /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-gjlpbnlaafcvacgijnsqrlbearsl/DrillDownApp_Prefix.pch -c "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/main.m" -o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327837187.588443
+e327837187.673339
+r1
+xCompileC
+xbuild/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/main.m327837187#327837187#0(0"0(0#0#58"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/main.m8619705504#2161"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap -F/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources -include /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch -c /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/main.m -o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/main.o /Users/Nicejinux/Desktop/PlusBibie_V0.1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/DetailView.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/ImageView.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/DetailView.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/ImageView.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/RootViewController.xib"
+r0
+
+CCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/DetailView.xib
+r0
+
+CCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/ImageView.xib
+r0
+
+CCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/MainWindow.xib
+r0
+
+CCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/RootViewController.xib
+r0
+
+CCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/WebView.xib
+s327839909.891091
+e327839910.218605
+r1
+xCompileXIB
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/WebView.xib
+lSLF07#2@22"CompileXIB WebView.xib327839909#327839910#0(0"0(0#0#63"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/WebView.xib29555362185347120#612"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/WebView.nib /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/WebView.xib --sdk /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/WebViewController.xib
+r0
+
+CCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/DetailView.xib
+r0
+
+CCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/ImageView.xib
+r0
+
+CCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/MainWindow.xib
+r0
+
+CCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/RootViewController.xib
+r0
+
+CCompileXIB /Users/Nicejinux/Desktop/PlusBibie_V0.1/WebView.xib
+r0
+
+CCopyPlistFile "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Data.plist" Classes/Data.plist
+r0
+
+CCopyPlistFile "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Data.plist" Classes/Data.plist
+s327502530.719144
+e327502530.762726
+r1
+xCopyPlistFile
+x/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Data.plist
+xClasses/Data.plist
+lSLF07#2@23"Copy Classes/Data.plist327502530#327502530#0(0"0(0#0#65"/Users/Nicejinux/Desktop/Source 3/DrillDownApp/Classes/Data.plist8600074304#418"    cd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Classes/Data.plist --outdir "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app"0#
+
+CCopyPlistFile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Data.plist Classes/Data.plist
+r0
+
+CCopyPlistFile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/Data.plist Classes/Data.plist
+r0
+
+CCpResource build/Debug-iphonesimulator/DrillDownApp.app/Image.jpg Image.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/DrillDownApp.app/korvb.sqlite3 korvb.sqlite3
+s327837185.786091
+e327837186.113695
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DrillDownApp.app/korvb.sqlite3
+xkorvb.sqlite3
+lSLF07#2@18"Copy korvb.sqlite3327837185#327837186#0(0"0(0#0#65"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/korvb.sqlite38618641344#518"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/korvb.sqlite3 /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app0#
+
+CGenerateDSYMFile "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM" "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp"
+s327497925.410364
+e327497925.447909
+r1
+xGenerateDSYMFile
+x/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM
+x/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/DrillDownApp.app.dSYM build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp327497925#327497925#0(0"0(0#0#104"/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp8603401568#428"    cd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp" -o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM" "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp"
+s327505377.083370
+e327505377.101391
+r1
+xGenerateDSYMFile
+x/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM
+x/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/DrillDownApp.app.dSYM build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp327505377#327505377#0(0"0(0#0#104"/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp8615367040#428"    cd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp" -o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM"0#
+
+CGenerateDSYMFile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+s327844513.951314
+e327844513.967454
+r1
+xGenerateDSYMFile
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/DrillDownApp.app.dSYM build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp327844513#327844513#0(0"0(0#0#109"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp8613362240#440"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/usr/bin/dsymutil /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp -o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app.dSYM0#
+
+CGenerateDSYMFile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app.dSYM /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+r0
+
+CLd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp" normal i386
+s327497925.245637
+e327497925.410282
+r1
+xLd
+x/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+xnormal
+xi386
+lSLF07#2@109"Link /Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp327497925#327497925#0(0"0(0#0#0"8603840448#975"    cd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator" "-F/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator" -filelist "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownApp.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp"0#
+
+CLd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp" normal i386
+s327505377.061020
+e327505377.083281
+r1
+xLd
+x/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+xnormal
+xi386
+lSLF07#2@109"Link /Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp327505377#327505377#0(0"0(0#0#0"8615868608#975"    cd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator" "-F/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator" -filelist "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownApp.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp"0#
+
+CLd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp normal i386
+s327844513.932868
+e327844513.951231
+r1
+xLd
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp
+xnormal
+xi386
+lSLF07#2@114"Link /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp327844513#327844513#0(0"0(0#0#0"8613756320#1006"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator -F/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator -filelist /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/Objects-normal/i386/DrillDownApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp0#
+
+CLd /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/DrillDownApp normal i386
+r0
+
+CProcessInfoPlistFile "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Info.plist" Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Info.plist" Info.plist
+r0
+
+CProcessInfoPlistFile /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch.gch DrillDownApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327837186.113805
+e327837187.588227
+r1
+xProcessPCH
+x/var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch.gch
+xDrillDownApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile DrillDownApp_Prefix.pch327837186#327837187#0(0"0(0#0#75"/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/DrillDownApp_Prefix.pch8606101728#2035"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap -iquote /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap -F/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/include -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386 -I/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources -c /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/DrillDownApp_Prefix.pch -o /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-bntremtlynxqyjernlkmcuysxzhh/DrillDownApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZO/ZOLUVTw2GAq+EthoqZChLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cfogrxzyqfdlsvaqgdftltqfswxu/DrillDownApp_Prefix.pch.gch DrillDownApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cttpkoymeeclxzcqrcgaxpjeaiuq/DrillDownApp_Prefix.pch.gch DrillDownApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327497924.220215
+e327497924.918319
+r1
+xProcessPCH
+x/var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cttpkoymeeclxzcqrcgaxpjeaiuq/DrillDownApp_Prefix.pch.gch
+xDrillDownApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile DrillDownApp_Prefix.pch327497924#327497924#0(0"0(0#0#70"/Users/Nicejinux/Desktop/Source 2/DrillDownApp/DrillDownApp_Prefix.pch4714837179676519424#2001"    cd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -c "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/DrillDownApp_Prefix.pch" -o /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-cttpkoymeeclxzcqrcgaxpjeaiuq/DrillDownApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-gjlpbnlaafcvacgijnsqrlbearsl/DrillDownApp_Prefix.pch.gch DrillDownApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327502427.536914
+e327502428.109569
+r1
+xProcessPCH
+x/var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-gjlpbnlaafcvacgijnsqrlbearsl/DrillDownApp_Prefix.pch.gch
+xDrillDownApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile DrillDownApp_Prefix.pch327502427#327502428#0(0"0(0#0#70"/Users/Nicejinux/Desktop/Source 3/DrillDownApp/DrillDownApp_Prefix.pch8605849664#2001"    cd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-generated-files.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-own-target-headers.hmap" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-all-target-headers.hmap" -iquote "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DrillDownApp-project-headers.hmap" "-F/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/include" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources/i386" "-I/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/DrillDownApp.build/Debug-iphonesimulator/DrillDownApp.build/DerivedSources" -c "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/DrillDownApp_Prefix.pch" -o /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-gjlpbnlaafcvacgijnsqrlbearsl/DrillDownApp_Prefix.pch.gch0#
+
+CTouch "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app"
+s327497925.447984
+e327497925.558608
+r1
+xTouch
+x/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app
+lSLF07#2@97"Touch /Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app327497925#327497925#0(0"0(0#0#0"8606012224#303"    cd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app"0#
+
+CTouch "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app"
+s327505377.101466
+e327505377.103453
+r1
+xTouch
+x/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app
+lSLF07#2@97"Touch /Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app327505377#327505377#0(0"0(0#0#0"8615269312#303"    cd "/Users/Nicejinux/Desktop/Source 3/DrillDownApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Nicejinux/Desktop/Source 3/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app"0#
+
+CTouch /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app
+s327844513.967521
+e327844513.969197
+r1
+xTouch
+x/Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app
+lSLF07#2@102"Touch /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app327844513#327844513#0(0"0(0#0#0"8613239712#311"    cd /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Nicejinux/Desktop/DrillDownLast/DrillDownApp/build/Debug-iphonesimulator/DrillDownApp.app0#
+
+CTouch /Users/Nicejinux/Desktop/PlusBibie_V0.1/build/Debug-iphonesimulator/DrillDownApp.app
+r0
+

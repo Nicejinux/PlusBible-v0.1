@@ -1,0 +1,267 @@
+TDrillDownApp
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/Data.plist
+c0000000049CFAE33000000000000080C
+t1238347315
+s2060
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DetailViewController.h
+c0000000049B48AE400000000000000EB
+t1236568804
+s235
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DetailViewController.m
+c0000000049B48B18000000000000028C
+t1236568856
+s652
+i"DetailViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DrillDownAppAppDelegate.h
+c0000000049B48ADD0000000000000226
+t1236568797
+s550
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DrillDownAppAppDelegate.m
+c0000000049B48AE100000000000003DF
+t1236568801
+s991
+i"DrillDownAppAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/ImageViewController.h
+c0000000049CFB8E00000000000000158
+t1238350048
+s344
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/ImageViewController.m
+c0000000049CFBD36000000000000039A
+t1238351158
+s922
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.h
+c0000000049CFA1EA000000000000020D
+t1238344170
+s525
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m
+c0000000049CFBB42000000000000108B
+t1238350658
+s4235
+i"RootViewController.h"
+i"DrillDownAppAppDelegate.h"
+i"DetailViewController.h"
+i"ImageViewController.h"
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/DetailView.xib
+c0000000049B419D700000000000016FC
+t1236539863
+s5884
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/DrillDownApp_Prefix.pch
+c0000000049B4088600000000000000C1
+t1236535430
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Image.jpg
+c0000000049CFBB2E0000000000000E82
+t1238350638
+s3714
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/ImageView.xib
+c0000000049CFBC770000000000001CDE
+t1238350967
+s7390
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/MainWindow.xib
+c0000000049B408860000000000002A2C
+t1236535430
+s10796
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/RootViewController.xib
+c0000000049CFA22400000000000041A9
+t1238344228
+s16809
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app.dSYM
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/Data.plist
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/DetailView.nib
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/DrillDownApp
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/Image.jpg
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/ImageView.nib
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/Info.plist
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/MainWindow.nib
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/PkgInfo
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/RootViewController.nib
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/DetailViewController.o
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/DrillDownApp.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/DrillDownAppAppDelegate.o
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/ImageViewController.o
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/main.m
+c0000000049B48AED0000000000000168
+t1236568813
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-aokysywwaqtztthfzopromgzvebd/DrillDownApp_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c0000000049B408860000000000000386
+t1236535430
+s902
+
+CCompileC build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/DetailViewController.o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DetailViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/DrillDownAppAppDelegate.o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/DrillDownAppAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/ImageViewController.o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/ImageViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/RootViewController.o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DrillDownApp.build/Debug-iphoneos/DrillDownApp.build/Objects-normal/armv6/main.o "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/DetailView.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/ImageView.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/RootViewController.xib"
+r0
+
+CCopyPlistFile "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/Data.plist" Classes/Data.plist
+r0
+
+CCpResource build/Debug-iphoneos/DrillDownApp.app/Image.jpg Image.jpg
+r0
+
+CCpResource build/Debug-iphoneos/DrillDownApp.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app.dSYM" "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/DrillDownApp"
+r0
+
+CLd "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/DrillDownApp" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/fU/fU6hVqcBFUyz07LGgovQIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DrillDownApp_Prefix-aokysywwaqtztthfzopromgzvebd/DrillDownApp_Prefix.pch.gch DrillDownApp_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug-iphoneos/DrillDownApp.app"
+r0
+

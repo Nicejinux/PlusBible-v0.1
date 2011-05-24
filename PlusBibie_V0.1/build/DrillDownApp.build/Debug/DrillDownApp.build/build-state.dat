@@ -1,0 +1,99 @@
+TDrillDownApp
+v7
+r1
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Classes/Data.plist
+c0000000049CFAE33000000000000080C
+t1238347315
+s2060
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/DetailView.xib
+c0000000049B419D700000000000016FC
+t1236539863
+s5884
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/Image.jpg
+c0000000049CFBB2E0000000000000E82
+t1238350638
+s3714
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/ImageView.xib
+c0000000049CFBC770000000000001CDE
+t1238350967
+s7390
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/MainWindow.xib
+c0000000049B408860000000000002A2C
+t1236535430
+s10796
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/RootViewController.xib
+c0000000049CFA22400000000000041A9
+t1238344228
+s16809
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app/Contents/Resources/Data.plist
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app/Contents/Resources/DetailView.nib
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app/Contents/Resources/Image.jpg
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app/Contents/Resources/ImageView.nib
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+NInfo.plist
+c0000000049B408860000000000000386
+t1236535430
+s902
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/DetailView.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/ImageView.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/RootViewController.xib"
+r0
+
+CCopyPlistFile "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app/Contents/Resources/Data.plist" Classes/Data.plist
+r0
+
+CCpResource build/Debug/DrillDownApp.app/Contents/Resources/Image.jpg Image.jpg
+r0
+
+CProcessInfoPlistFile "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/Nicejinux/Desktop/Source 2/DrillDownApp/build/Debug/DrillDownApp.app"
+r0
+
